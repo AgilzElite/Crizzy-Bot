@@ -136,8 +136,8 @@ return buffer
 
 		//TEMPLATE BUTTON!
 		const buttonsDefault = [
-			//{ callButton: { displayText: `Call Owner!`, phoneNumber: `+6285849261085` } },
-			{ urlButton: { displayText: `github!`, url : `https://github.com/FebriansyahXd` } },
+			//{ callButton: { displayText: `Call Owner!`, phoneNumber: `+6285857537269` } },
+			{ urlButton: { displayText: `github!`, url : `https://github.com/AgilzElite` } },
 			{ quickReplyButton: { displayText: `🧑 owner`, id: `${prefix}owner` } },
 			{ quickReplyButton: { displayText: `💰 donate`, id: `${prefix}donate` } },
 			{ quickReplyButton: { displayText: `🗼 ping bot`, id: `${prefix}pingbot` } }
@@ -348,12 +348,12 @@ switch(command){
 					btn = [{
                                 urlButton: {
                                     displayText: 'ꜰᴏʟʟᴏᴡ ɪɴꜱᴛᴀɢʀᴀᴍ',
-                                    url: 'https://instagram.com/fdhlgrphy'
+                                    url: 'https://instagram.com/agilz1120'
                                 }
                             }, {
                                 urlButton: {
                                     displayText: 'ɢʀᴏᴜᴘ ᴡʜᴀᴛꜱᴀᴘᴘ',
-                                    url: 'https://chat.whatsapp.com/KX1gNmG96RHC2oUlNy3Wdz'
+                                    url: 'https://youtube.com/channel/UCWjpOXZb18hc09j9qRhxG1w'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -404,9 +404,9 @@ switch(command){
 					
 *⚠️ Nomor :*
 (Dana, OVO, GoPay, ShopeePay)
-	╰≻ 083102650464
+	╰≻ 085857537269
 (Telkomsel)
-	╰≻ 082135724604
+	╰≻ 085857537269
 (Qris)
 	╰≻ Click the button below. 
 
